@@ -1,0 +1,3 @@
+from ferramentas import *
+
+dados()

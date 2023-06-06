@@ -1,0 +1,1 @@
+utiliznado o break no while
